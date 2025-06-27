@@ -1,0 +1,1 @@
+Ce repo vise principalement à intégrer certains packages et certaines applications à dans l'image d'airflow
