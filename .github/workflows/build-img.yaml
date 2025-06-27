@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 env:
   AIRFLOW_VERSION: ${{ vars.AIRFLOW_VERSION }}
